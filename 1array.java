@@ -2,7 +2,6 @@ import java.io.*;
 import java.util.Scanner;
 class lenovo{
 	public static void main(String args[]){
-		//BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 		System.out.println("enter how many subjects?");
 		Scanner in = new Scanner(System.in);
 		int n=in.nextInt();
